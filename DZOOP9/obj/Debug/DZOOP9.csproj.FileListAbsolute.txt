@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\DZOOP9\bin\Debug\DZOOP9.exe.config
+C:\Users\даня f\source\repos\DZOOP9\bin\Debug\DZOOP9.exe
+C:\Users\даня f\source\repos\DZOOP9\bin\Debug\DZOOP9.pdb
+C:\Users\даня f\source\repos\DZOOP9\obj\Debug\DZOOP9.csprojAssemblyReference.cache
+C:\Users\даня f\source\repos\DZOOP9\obj\Debug\DZOOP9.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZOOP9\obj\Debug\DZOOP9.exe
+C:\Users\даня f\source\repos\DZOOP9\obj\Debug\DZOOP9.pdb
