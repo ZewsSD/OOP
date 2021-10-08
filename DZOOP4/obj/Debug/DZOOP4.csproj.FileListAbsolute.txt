@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\DZOOP4\bin\Debug\DZOOP4.exe.config
+C:\Users\даня f\source\repos\DZOOP4\bin\Debug\DZOOP4.exe
+C:\Users\даня f\source\repos\DZOOP4\bin\Debug\DZOOP4.pdb
+C:\Users\даня f\source\repos\DZOOP4\obj\Debug\DZOOP4.csprojAssemblyReference.cache
+C:\Users\даня f\source\repos\DZOOP4\obj\Debug\DZOOP4.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZOOP4\obj\Debug\DZOOP4.exe
+C:\Users\даня f\source\repos\DZOOP4\obj\Debug\DZOOP4.pdb

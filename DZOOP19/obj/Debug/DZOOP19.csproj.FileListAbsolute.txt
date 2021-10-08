@@ -1,0 +1,10 @@
+D:\OnlineLessonsC#\DZOOP19\bin\Debug\DZOOP19.exe.config
+D:\OnlineLessonsC#\DZOOP19\bin\Debug\DZOOP19.exe
+D:\OnlineLessonsC#\DZOOP19\bin\Debug\DZOOP19.pdb
+D:\OnlineLessonsC#\DZOOP19\obj\Debug\DZOOP19.csprojAssemblyReference.cache
+D:\OnlineLessonsC#\DZOOP19\obj\Debug\DZOOP19.Form1.resources
+D:\OnlineLessonsC#\DZOOP19\obj\Debug\DZOOP19.Properties.Resources.resources
+D:\OnlineLessonsC#\DZOOP19\obj\Debug\DZOOP19.csproj.GenerateResource.cache
+D:\OnlineLessonsC#\DZOOP19\obj\Debug\DZOOP19.csproj.CoreCompileInputs.cache
+D:\OnlineLessonsC#\DZOOP19\obj\Debug\DZOOP19.exe
+D:\OnlineLessonsC#\DZOOP19\obj\Debug\DZOOP19.pdb

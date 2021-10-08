@@ -1,0 +1,7 @@
+D:\OnlineLessonsC#\DZOOP16\bin\Debug\DZOOP16.exe.config
+D:\OnlineLessonsC#\DZOOP16\bin\Debug\DZOOP16.exe
+D:\OnlineLessonsC#\DZOOP16\bin\Debug\DZOOP16.pdb
+D:\OnlineLessonsC#\DZOOP16\obj\Debug\DZOOP16.csprojAssemblyReference.cache
+D:\OnlineLessonsC#\DZOOP16\obj\Debug\DZOOP16.csproj.CoreCompileInputs.cache
+D:\OnlineLessonsC#\DZOOP16\obj\Debug\DZOOP16.exe
+D:\OnlineLessonsC#\DZOOP16\obj\Debug\DZOOP16.pdb
